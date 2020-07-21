@@ -4,7 +4,7 @@
 **ficanovak/ficanovak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 I’m currently working on Lawyer's app using Django
+- 🔭 I’m currently working on Lawyer's app using Django.
 - 🌱 I’m learning Flutter at the moment.
 - 🤔 I’m looking for help with design.
 - 💬 Ask me anything about Python or any tech related stuff.
